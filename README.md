@@ -9,7 +9,7 @@ More interesting projects: - https://netstalkers.com/private
 ```
 $ pip install pdfplumber gtts art
 ```
-or
+or and
 
 ```
 $ pip install -r requirements.txt
